@@ -11,8 +11,8 @@ const Home = () =>{
                     <div className="project__container bd-grid">
                         <img src={Building} alt="Projets realises" className="project__img"/>
                         <div className="project__data">
-                            <h2 className="section-title project__title">Do you have project...</h2>
-                            <p className="project__description">If you have a project that you want... Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+                            <h2 className="section-title project__title">Construisons l’avenir ensemble !</h2>
+                            <p className="project__description">Découvrez nos solutions innovantes pour tous vos projets de construction et de rénovation.</p>
                             <Link to="/contact" className="button button__light">Contactez-nous</Link>
                         </div>
                         <img src={HBuilding} alt="Projets realises" className="project__img"/>
